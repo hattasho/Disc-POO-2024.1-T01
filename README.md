@@ -1,1 +1,2 @@
-# Disc-POO-2024.1-T01
+# TRABALHO DE POO 2024.1
+## Primeiro trabalho de POO
