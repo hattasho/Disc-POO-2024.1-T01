@@ -14,3 +14,5 @@
 ### 19) Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada, calcule e mostre quantos degraus ele deverá subir para atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medidas fornecidas devem estar em metros.
 ### 20) Faça um programa que receba a medida do ângulo (em graus) formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida dessa escada.
 OBSERVAÇÕES: as funções trigonométricas implementadas nas linguagens de programação trabalham com medidas de ângulos em radianos.
+### (CAPÍTULO 4) 3) Faça um programa que receba dois números e mostre o menor.
+### (CAPÍTULO 5) 5) Faça um programa que mostre as tabuadas dos números de 1 a 10.
