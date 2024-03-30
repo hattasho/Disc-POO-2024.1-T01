@@ -66,6 +66,6 @@
 #### -os minutos vão de 0 a 59.
 ### 25) Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.
 #
-# QUESTÕES PROPOSTAS:
+## QUESTÕES PROPOSTAS:
 ### 4) Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.
 ### 19) Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m², deve-se usar 18W de potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostre a sua área (em m2) e a potência de iluminação que deverá ser utilizada.
