@@ -1,8 +1,20 @@
-# TRABALHO DE Programação Orientada a Objetos(POO). 1º Semestre de 2024.
-## Primeiro trabalho de POO IFCE P3 informática.
-### Livro: "Fundamentos da PROGRAMAÇÃO de COMPUTADORES". Capítulo: 3.
-#### Equipe: Saul, Isaac, Arthur, Cauã, Beatriz. 
-#### Professor: Roger Moura
+# disc-poo-2024.1-t01
+
+## Atividades referentes ao capítulo 3: Estrutura Sequencial.
+### Activities related to chapter 3: Sequential Structure.
+- Lista 01:TODOS os Exercícios Resolvidos e 10 Exercícios Propostos.
+- List 1: ALL Solved Exercises and 10 Proposed Exercises.
+
+## Equipe:
+### Team:
+- Ana Beatriz Carvalho de Menezes
+- Isaac Ramos
+- Saul Ramos
+- Arthur Lima
+- Cauã Rodrigues
+
+## Professor Orientador: Roger Moura Sarmento.
+### Teacher Advisor: Roger Moura Sarmento.
 #
 ### 1) Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 ### 2) Faça um programa que receba três notas, calcule e mostre a média aritmética.
